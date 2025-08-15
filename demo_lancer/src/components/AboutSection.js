@@ -66,10 +66,10 @@ export default function AboutSection({ config }) {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <Image
-                src='/img6.jpg'
+                src='/img5.jpg'
                 alt="About us"
                 width={600}
-                height={400}
+                height={600}
                 className="w-full h-[400px] object-cover"
                 loading="lazy"
               />
